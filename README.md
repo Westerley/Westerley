@@ -1,12 +1,10 @@
 ### Westerley da Silva Reis - [Data Scientist / Data Engineer]
 
+Graduated in information systems at Federal University of Mato Grosso do Sul - UFMS. Master's degree in computer science at UFMS, with the interest in researching about artificial intelligence, focusing on machine learning. 
+
 ### Connect with me:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/westerley-reis/)
-
-<br />
-
-Graduated in information systems at Federal University of Mato Grosso do Sul - UFMS. Master's degree in computer science at UFMS, with the interest in researching about artificial intelligence, focusing on machine learning. 
 
 ### Certifications
 
